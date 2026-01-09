@@ -1,0 +1,27 @@
+FINISHED ALL THE FUSION CARDS-james
+------------------------------------------------------
+STARTED ON XYZ'STARTED-james
+-ADD THE FIRST CARD.
+ADDED BACKGROUND-COLOR TAG TO BODY,TABLE,DETAIL.
+ADDED ANOTHER TABLE BUT USE THE SAME TABLE HEADERS.
+------------------------------------------------------
+09/24/22-UPDATE-1HOUR WORK-james
+-ADDED SOME OF THE SYNCHRO'S[15 CARDS]
+-FIXED SOME MISTAKES ALSO MADE SURE IT IS STADED THAT THE THOUSAND CARD DO NOT HAVE A CARD ID- THE ONLY ONE THAT 
+DONT HAVE A CARD ID
+-------------------------------------------------------
+12/21/24-UPDATE-james
+ change nothing much just checking into to it.
+-------------------------------------------------------
+10/03/25-update-James-2:05pm
+-change where stored at WD_black game Drive.
+-except that nothing else changed
+------------------------------------------------------
+10/15/25-update-james
+-i change the layout but dont mind the comments it doesnt matter until you go to the 
+special summon(SYNCHRO,xyz ectr).
+- started to work on the D agin, im putting them in by level so now they are gonna look different. i just short 
+the card by level in an old shoe box so that how they will be entered now.
+- Put the monster card into a drop down menu like the special cards.
+12/6/25-7:32pm-james-update-v0.0.5
+ADDED MORE CARDS GOT TO LEVEL 3

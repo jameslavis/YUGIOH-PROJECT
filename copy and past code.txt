@@ -1,0 +1,32 @@
+            extra cards
+            <tr>
+                <td></td><!--CARD NAME-->
+                <td></td><!--CARD LEVEL-->
+                <td></td><!--CARD ID-->
+                <td></td><!--CARD COLLECTION ID-->
+                <td></td><!--TYPE OF CARD-->
+                <td></td><!--HOW MANY OF CARD-->
+                <td></td><!--ATK POINTS OF CARD-->
+                <td></td><!--DEF POINTS OF CARD-->
+            </tr>
+
+            main cards
+            <tr>
+                <td></td><!--CARD ID-->
+                <td></td><!--CARD COLLECTION ID-->
+                <td></td><!--CARD NAME-->
+                <td></td><!--CARD LEVEL-->
+                <td></td><!--ATK POINTS OF CARD-->
+                <td></td><!--DEF POINTS OF CARD-->
+                <td></td><!--HOW MANY OF CARD-->
+            </tr>
+	<tr>
+	<th>card code</th><!-- card code-->
+	<th>extra code</th><!-- card extra code-->
+	<th>card name</th><!-- card name-->
+	<th>card level</th><!-- Card Level-->
+	<th>card atk</th><!--ATK points-->
+	<th>card def</th><!--DEF points-->
+	<th>how many of the card do you have</th><!--How many card do you have-->
+	</tr>
+            

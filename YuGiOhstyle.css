@@ -1,0 +1,41 @@
+tr{
+    border:3px solid black;
+}
+td{
+  border:3px solid black; 
+}
+th{
+  border:3px solid black;
+}
+table{
+    border:3px solid black;
+    width:100%;
+    height:100%;
+    background-color:dodgerblue;
+    color:black;
+}
+section{
+    border:3px dotted red;
+    background-color:yellow;
+}
+details{
+    background-color:rgb(29, 8, 95);
+    border:3px solid black;
+    color:red;
+}
+header{
+    text-align: center;
+    border:3px solid navy;
+    background-color:red;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color:lightseagreen;
+}
+#TITLE{
+    border:2px solid black;
+    text-align: center;
+    width:100%;
+}
